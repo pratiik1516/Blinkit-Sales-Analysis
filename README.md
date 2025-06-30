@@ -2,7 +2,7 @@
 
 # Blinkit Sales and Inventory Analysis using Python
 
-![]((https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/blinkit_logo.png))
+![](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/blinkit_logo.png)
 
 ## 📊 Overview
 This project performs an Exploratory Data Analysis (EDA) of Blinkit's sales and inventory dataset using Python libraries. The objective is to uncover insights into sales performance, customer satisfaction, and inventory distribution using key performance indicators (KPIs) and data visualizations.
