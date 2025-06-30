@@ -43,42 +43,42 @@ The dataset includes information on products, their fat content, item type, outl
 ### 1. Total Sales by Fat Content
 
 **Objective:** Analyze impact of fat content on total and average sales.  
-**Chart:** Donut Chart
+**Chart:** Pie Chart [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Total%20Sales%20by%20Fat%20Content.png)
 
 ---
 
 ### 2. Total Sales by Item Type
 
 **Objective:** Identify which item types contribute most to revenue.  
-**Chart:** Bar Chart
+**Chart:** Bar Chart [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Total%20Sales%20by%20Item%20Type.png)
 
 ---
 
 ### 3. Fat Content by Outlet for Total Sales
 
 **Objective:** Compare total sales across outlets segmented by fat content.  
-**Chart:** Stacked Column Chart
+**Chart:** Stacked Column Chart [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Fat%20Content%20by%20Outlet%20for%20Total%20Sales.png)
 
 ---
 
 ### 4. Total Sales by Outlet Establishment Year
 
 **Objective:** Evaluate how outlet age influences sales.  
-**Chart:** Line Chart
+**Chart:** Line Chart [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Total%20Sales%20by%20Outlet%20Establisment.png)
 
 ---
 
 ### 5. Sales by Outlet Size
 
 **Objective:** Understand how outlet size correlates with sales.  
-**Chart:** Pie/Donut Chart
+**Chart:** Pie/Donut Chart [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Sales%20by%20Outlet%20Size.png)
 
 ---
 
 ### 6. Sales by Outlet Location
 
 **Objective:** Analyze geographic trends in sales performance.  
-**Chart:** Funnel Map
+**Chart:** Funnel Map [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Sales%20by%20Outlet%20Location.png)
 
 ## 📌 Key Findings
 
@@ -91,6 +91,3 @@ The dataset includes information on products, their fat content, item type, outl
 
 This analysis provides actionable insights into Blinkit's operations, enabling improved business decisions around inventory management, outlet planning, and customer targeting. The project demonstrates the power of Python-based EDA in solving real-world business problems through data.
 
----
-
-> 📁 For detailed code and plots, refer to the Jupyter Notebook file: `Blinkit Analysis.ipynb`
