@@ -50,35 +50,35 @@ The dataset includes information on products, their fat content, item type, outl
 ### 2. Total Sales by Item Type
 
 **Objective:** Identify which item types contribute most to revenue.  
-**Chart:** Bar Chart [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Total%20Sales%20by%20Item%20Type.png)
+**Chart:** Bar Chart ![](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Total%20Sales%20by%20Item%20Type.png)
 
 ---
 
 ### 3. Fat Content by Outlet for Total Sales
 
 **Objective:** Compare total sales across outlets segmented by fat content.  
-**Chart:** Stacked Column Chart [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Fat%20Content%20by%20Outlet%20for%20Total%20Sales.png)
+**Chart:** Stacked Column Chart ![](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Fat%20Content%20by%20Outlet%20for%20Total%20Sales.png)
 
 ---
 
 ### 4. Total Sales by Outlet Establishment Year
 
 **Objective:** Evaluate how outlet age influences sales.  
-**Chart:** Line Chart [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Total%20Sales%20by%20Outlet%20Establisment.png)
+**Chart:** Line Chart ![](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Total%20Sales%20by%20Outlet%20Establisment.png)
 
 ---
 
 ### 5. Sales by Outlet Size
 
 **Objective:** Understand how outlet size correlates with sales.  
-**Chart:** Pie/Donut Chart [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Sales%20by%20Outlet%20Size.png)
+**Chart:** Pie/Donut Chart ![](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Sales%20by%20Outlet%20Size.png)
 
 ---
 
 ### 6. Sales by Outlet Location
 
 **Objective:** Analyze geographic trends in sales performance.  
-**Chart:** Funnel Map [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Sales%20by%20Outlet%20Location.png)
+**Chart:** Funnel Map ![](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Sales%20by%20Outlet%20Location.png)
 
 ## 📌 Key Findings
 
