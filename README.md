@@ -36,7 +36,7 @@ The dataset includes information on products, their fat content, item type, outl
 - **Total Sales** – Overall revenue from all items sold.  
 - **Average Sales** – Average revenue per item.  
 - **Number of Items** – Total number of unique products.  
-- **Average Rating** – (If available) Average customer rating for items.
+- **Average Rating** – Average customer rating for items.
 
 ## 📊 Visualizations & Business Questions
 
