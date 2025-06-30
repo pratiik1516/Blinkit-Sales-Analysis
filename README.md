@@ -43,7 +43,7 @@ The dataset includes information on products, their fat content, item type, outl
 ### 1. Total Sales by Fat Content
 
 **Objective:** Analyze impact of fat content on total and average sales.  
-**Chart:** Pie Chart [](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Total%20Sales%20by%20Fat%20Content.png)
+**Chart:** Pie Chart ![](https://github.com/pratiik1516/Blinkit-Sales-Analysis/blob/main/Total%20Sales%20by%20Fat%20Content.png)
 
 ---
 
